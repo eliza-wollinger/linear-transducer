@@ -14,7 +14,7 @@ The system can be used in several applications, such as manufacturing processes,
 
 ### How to set and run this project?
 
-![Tools](https://user-images.githubusercontent.com/57842220/228838230-b7228dd1-3b14-40ce-ab59-b837c8a596f7.png)
+![Tools](https://user-images.githubusercontent.com/57842220/228842131-7f1bb753-4151-48c1-a762-ce0124fdaebe.png)
 
 
 ## Português <a name="pt"></a>
